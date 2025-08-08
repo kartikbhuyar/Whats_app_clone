@@ -348,7 +348,8 @@ io.on('connection', socket => {
             })
             await alertMessage.save()
 
-            // send message to all the users in that chat
+            // send message to all the users in that chat 
+            //this is next step
             const roomName = String(chatID)
             io.to(roomName).emit('group-update', {
                 type: 'userLeave',
