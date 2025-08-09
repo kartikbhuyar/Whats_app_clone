@@ -15,6 +15,19 @@ A brief description of what this project does and who it's for.
 - Authentication: Firebase / Google Auth
 - Real-Time: Socket.IO
 
+
+HOW TO USE THIS SITE:--
+
+1) Log in with Account
+2) Click on three dot at right side down
+3) Then there are two option ie. Create Group And Add chat
+4) click on Add chat or creat group with registered users
+5) Wait for 5 sec
+6) There will list of registered Users
+7) you can chat end to end in real time...
+
+
+
 ## 🛠️ Installation
 
 ```bash
