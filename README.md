@@ -2,6 +2,8 @@
 
 A brief description of what this project does and who it's for.
 
+This project is a WhatsApp Web–like chat application that processes WhatsApp Business API webhook payloads, stores messages in MongoDB, and displays real-time conversations in a responsive web UI. It includes a Node.js backend for payload ingestion and a Next.js frontend for viewing and sending messages (storage only).
+
 ## 🚀 Features
 
 - Feature 1
